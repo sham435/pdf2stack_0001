@@ -1,0 +1,6 @@
+{
+  "name": "@repo/prompt",
+  "version": "3.0.0",
+  "main": "index.ts",
+  "types": "index.ts"
+}
